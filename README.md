@@ -1,7 +1,5 @@
 # Frontend - AWS Test Platform
 
-React 기반의 AWS 서비스 테스트 플랫폼 프론트엔드입니다.
-
 ## 기술 스택
 
 - React 18
